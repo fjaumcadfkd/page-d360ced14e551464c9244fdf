@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "21629fd3e18efb02b41a366d",
+  "owner": "fjaumcadfkd",
+  "repo": "page-d360ced14e551464c9244fdf",
+  "title": "微创云",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d360ced14e551464c9244fdf",
+      "a": "微创云",
+      "b": "2027官方最新地址导航",
+      "entity": "微创云",
+      "brand": "微创云",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "b16b1847848b79f5c302bc18c00eec98a6463ceefdb4f0f38bbf979014a9ee7b",
+      "content": {
+        "primary_entity": "微创云",
+        "keyword1": "微创云",
+        "keyword2": "2027官方最新地址导航",
+        "content": {
+          "AI_DESCRIPTION": "，微创云提供基础版、旗舰版与团队版三档订阅，覆盖每月100GB至1000GB流量，支持3台到20台设备同时在线，适合个人影音、跨区游戏加速与小型协作团队按需选择。",
+          "AI_HERO_SUBTITLE": "三档订阅按需匹配",
+          "AI_HERO_INTRO": "微创云是面向跨境网络访问的加速服务，提供基础版、旗舰版与团队版三档订阅方案，流量从每月100GB到1000GB，支持3台至20台设备同时在线，用户可按日常影音、游戏加速或团队协作场景选择合适的套餐。",
+          "AI_VISUAL_TITLE": "微创云 加速套餐一览",
+          "AI_HIGHLIGHT_1": "基础版月付15元，年付150元",
+          "AI_HIGHLIGHT_2": "旗舰版月付35元，含IPLC专线",
+          "AI_HIGHLIGHT_3": "团队版月付85元，支持20台设备",
+          "AI_FEATURES_TITLE": "套餐选择与适配要点",
+          "AI_FEATURES_INTRO": "微创云三档套餐在流量、设备数与节点类型上有明确区分，选择时可从日常用量、同时在线设备数量与是否需要专线加速三个角度判断。",
+          "AI_FEATURE_TITLE_1": "按流量需求选档",
+          "AI_FEATURE_TEXT_1": "基础版每月100GB适合轻量浏览，旗舰版300GB满足影音与游戏，团队版1000GB应对多人高频使用。",
+          "AI_FEATURE_TITLE_2": "按设备数量判断",
+          "AI_FEATURE_TEXT_2": "基础版支持3台设备，旗舰版支持5台，团队版支持20台，多设备家庭或小型工作室可优先考虑较高档位。",
+          "AI_FEATURE_TITLE_3": "按年付更省预算",
+          "AI_FEATURE_TEXT_3": "基础版年付150元、旗舰版年付350元、团队版年付850元，长期使用可按年付折算每月成本。",
+          "AI_CLIENTS_TITLE": "按设备选择客户端",
+          "AI_CLIENTS_INTRO": "不同系统与设备可安装的客户端类型不同，选择时先确认设备系统版本，再对照客户端文档完成订阅配置。",
+          "AI_PLANS_TITLE": "三档套餐对比",
+          "AI_PLANS_INTRO": "微创云基础版月付15元、旗舰版月付35元、团队版月付85元，流量、设备数和节点类型依次提升，可按实际用量选择。",
+          "AI_GUIDE_TITLE": "订阅使用三步",
+          "AI_GUIDE_INTRO": "微创云订阅按选择套餐、核对设备适配、导入订阅信息三项操作推进，每步完成后进入下一步。",
+          "AI_STEP_TITLE_1": "选择服务档位",
+          "AI_STEP_TEXT_1": "根据每月流量需求与同时在线设备数量，在基础版、旗舰版、团队版中选定一档。",
+          "AI_STEP_TITLE_2": "核对适配要求",
+          "AI_STEP_TEXT_2": "确认设备系统版本与客户端类型是否匹配所选套餐，团队版可进一步了解定制路由需求。",
+          "AI_STEP_TITLE_3": "配置订阅信息",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅信息，完成节点选择后即可连接使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "选对套餐，连接更顺畅",
+          "AI_CLOSING_TEXT": "先明确设备数量与月流量需求，再对照三档套餐权益选择适合自己的一档。",
+          "AI_FAQ_ANSWER_1": "基础版适合单人日常使用，3 台设备、100GB 月流量；若需要流媒体解锁或游戏加速，旗舰版更合适。",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备，旗舰版 5 台，团队版 20 台。可按家中手机、电脑、平板数量挑选。",
+          "AI_FAQ_ANSWER_3": "月付灵活，年付更省。基础版年付 ¥150，旗舰版年付 ¥350，团队版年付 ¥850，长期使用可选年付。",
+          "AI_FAQ_ANSWER_4": "在客户端文档中找到对应设备的导入说明，复制订阅链接后粘贴到客户端即可完成配置。",
+          "AI_FAQ_ANSWER_5": "旗舰版提供 IPLC 专线游戏加速优化与 7x24 优先工单，适合对延迟和稳定性要求较高的用户。",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版怎么选？",
+          "AI_FAQ_QUESTION_2": "一个账号能同时登录几台设备？",
+          "AI_FAQ_QUESTION_3": "月付和年付有什么区别？",
+          "AI_FAQ_QUESTION_4": "如何导入订阅到客户端？",
+          "AI_FAQ_QUESTION_5": "哪些套餐适合游戏加速？",
+          "AI_FAQ_TITLE": "常见问答"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "kcvcju6ep.cn",
+    "host": "kcvcju6ep.cn"
+  },
+  "file_hashes": {
+    "index.html": "a2c358defe24a19defe30aba8e380a1ae9a34865958637ee33503199c5f46fc0",
+    "sitemap.xml": "ebd74115bc5ae1258a39b22dc530db1a20763fa97ea55a99635f90d4070817b4",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "413c7e7c725cf45e2118463f024c48ea1cafe3ac8a7108805b0e953bf3dd4008",
+    "robots.txt": "4872f2caa5179812cb7231e0195436eec2daf80f510dda76edd83b8416302a58",
+    "0df871786748709bfb9d67a93c30e720.txt": "d2428bbd7cbe534caeef74f243a860bc8078070036b71856a30e7de7480bd66d"
+  },
+  "revision": "f0f0e0a1819e4b93c2a34e303f4d932580c16123989728a1026d48e82808cda7"
+}
